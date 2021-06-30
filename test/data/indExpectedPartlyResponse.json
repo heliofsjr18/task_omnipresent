@@ -1,0 +1,37 @@
+[
+    {
+        "firstName": "Simon",
+        "lastName": "McTester",
+        "dateOfBirth": "01/11/1987",
+        "jobTitle": "Product manager",
+        "company": "Mock industries",
+        "country": {
+            "fullName": "India",
+            "currency": [
+                {
+                    "code": "INR",
+                    "name": "Indian rupee",
+                    "symbol": "₹"
+                }
+            ],
+            "Languages": [
+                {
+                    "iso639_1": "hi",
+                    "iso639_2": "hin",
+                    "name": "Hindi",
+                    "nativeName": "हिन्दी"
+                },
+                {
+                    "iso639_1": "en",
+                    "iso639_2": "eng",
+                    "name": "English",
+                    "nativeName": "English"
+                }
+            ],
+            "timezone": [
+                "UTC+05:30"
+            ]
+        },
+        "additionalForAsiaOrEuro": "SimonMcTester01/11/1987"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "firstName": "Lisa",
+        "lastName": "Testora",
+        "dateOfBirth": "11/07/1984",
+        "jobTitle": "CTO",
+        "company": "Test co",
+        "country": {
+            "fullName": "United Kingdom of Great Britain and Northern Ireland",
+            "currency": [
+                {
+                    "code": "GBP",
+                    "name": "British pound",
+                    "symbol": "£"
+                }
+            ],
+            "Languages": [
+                {
+                    "iso639_1": "en",
+                    "iso639_2": "eng",
+                    "name": "English",
+                    "nativeName": "English"
+                }
+            ],
+            "timezone": [
+                "UTC-08:00",
+                "UTC-05:00",
+                "UTC-04:00",
+                "UTC-03:00",
+                "UTC-02:00",
+                "UTC",
+                "UTC+01:00",
+                "UTC+02:00",
+                "UTC+06:00"
+            ]
+        },
+        "additionalForAsiaOrEuro": "LisaTestora11/07/1984"
+    }
+]

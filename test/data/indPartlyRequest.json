@@ -1,0 +1,10 @@
+[
+    {
+       "firstName":"Simon",
+       "lastName":"McTester",
+       "dateOfBirth":"01/11/1987",
+       "jobTitle":"Product manager",
+       "company":"Mock industries",
+       "country":"IND"
+    }
+ ]
