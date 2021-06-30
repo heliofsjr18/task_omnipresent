@@ -22,3 +22,10 @@ And last but not least we have the Client layer, which here is used to hit an ex
 For unit tests, I decided to use jest to full cover the employeesController, using mocks and the real requests and validating the output.
 
 P.S: We have on './src/controllers/restCountriesController' that calls directly the client, I don't think is a good approach, I just decided to put that here for example, and test the organization.
+
+
+
+For the Proposal to become the service available into a cloud infrastucture.
+
+Here follows the link with the proposal.
+https://docs.google.com/document/d/1d_exyEdL2_wICPg5RAR3VDVWeF5vyK264ka-zOjHLrQ/edit?usp=sharing
